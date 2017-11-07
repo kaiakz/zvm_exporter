@@ -1,6 +1,7 @@
 # zvm-exporter 
 
 z/VM metrics exporter for [Prometheus](https://github.com/prometheus/prometheus), written in Python.
+[Read the Docs](https://zvm-exporter.readthedocs.io) for the detailed documentation. 
 
 ## Installation
 
